@@ -6,11 +6,19 @@ This Github repository includes:
 2. The code for visualizing the important topics through wordcloud
 3. The code for extracting and visualizing the major topics discussed in each document through plyDavis and Gensim
 4. The repository also includes the following documents for text analysis:
+  
   4.1. PM Boris Johnson's speech
+  
   4.2. President Xi Ping'speech
+  
   4.3. PM Narendra Modhi's speech
+  
   4.4. New Zealand's Rep. speech
+  
   4.5. PM Imran Khan's speech
+  
   4.6. President Vladimir Putin's speech
+  
   4.7. President Donald Trump's speech
+  
   4.8. PM Lee Hsien Loong's speech
