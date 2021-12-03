@@ -5,7 +5,8 @@ This Github repository includes:
 1. The code for the textual analysis for cleaning and preparing the document for analysis
 2. The code for visualizing the important topics through wordcloud
 3. The code for extracting and visualizing the major topics discussed in each document through plyDavis and Gensim
-4. The repository also includes the following documents for text analysis:
+4. The code for a combined dataset analysis to extract the overall topics
+5. The repository also includes the following documents for text analysis:
   
   4.1. PM Boris Johnson's speech
   
